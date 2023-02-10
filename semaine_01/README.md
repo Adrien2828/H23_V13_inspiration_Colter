@@ -1,5 +1,5 @@
 
-Exersice semaine
+Exercise semaine
 1 : Fiche de présentation
 
 * Fiche
