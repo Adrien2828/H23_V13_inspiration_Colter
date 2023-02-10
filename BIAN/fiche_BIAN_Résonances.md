@@ -3,7 +3,7 @@
 #
 L'oeuvre Résonance, était en exposition pendant ma visite a l'Arsenal art contemporain de Montréal.
 J'ai visiter cette exposition le 3 février 2023.
-![Photo de moi devant le batiment]()
+![Photo de moi devant le batiment](medias/photo_moi_devant_batiment.jpg)
 
 Type d'exposition:.....
 
