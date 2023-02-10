@@ -1,6 +1,6 @@
 # Colter, Adrien
 
-![photo de moi](Une_photo_de_moi.jpg)
+![photo de moi](photo_moi.jpg)
 
 ## Intérêt dans le Domaine du multimédia
 Dans le domaine du multimédia, je suis intéréssé par le web et les jeux vidéos. Je suis aussi intéréssé par la programmation, même si je suis par très bon. :smiley:
