@@ -1,7 +1,7 @@
 # Résonances
 ![Image](BIAN/medias/photo_oeuvre_1.jpg)
 
-Photo de moi a coté de l'oeuvre
+![Photo de moi avec l'oeuvre](BIAN/medias/photo_oeuvre_1.jpg)
 
 Type d'exposition
 
@@ -19,6 +19,29 @@ RESONANCES is a metaphor for the passage of time. However, instead of expressing
 
 Type d'installation: Interactive
 [Video interactif](https://youtu.be/2OLwPezuT4A)
+
+![Photo dans la salle(BIAN/medias/photo_oeuvre_1.jpg)
+
+L'oeuvre est placé dans un endroit ou tu peux la voir directement en rentrant. Elle prend beaucoup de place car pour cette oeuvre, il faut un très grand écran et une grosse structure pour q'une personne soit capable de passé dedans. DISPOSÉ???????
+
+Liste des composantes blablablabala
+
+Élément nécessaire a l'exposition (cable, projecteur, etc.)
+
+Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci	Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre.
+
+❤️ Ce qui vous a plu, vous a donné des idées	Éléments pertinents	Texte à rédiger qui présente un ou des aspects inspirants, avec justifications détaillées (pourquoi est-ce que cela vous a plus/ vous a donné des idées ?
+
+🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement	Éléments pertinents	Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec justifications détaillées (pourquoi? comment?)
+
+
+
+
+
+
+
+
+
 
 
 
