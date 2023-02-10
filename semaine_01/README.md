@@ -1,5 +1,6 @@
 
-Exersice semain 1 : Fiche de présentation
+Exersice semaine
+1 : Fiche de présentation
 
 * Fiche
 * Photographie
