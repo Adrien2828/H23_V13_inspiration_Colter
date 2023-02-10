@@ -1,5 +1,7 @@
 # Résonances
-![Image](BIAN/medias/photo_oeuvre_1.jpg)
+ <h2 align="center">
+  ![Image](BIAN/medias/photo_oeuvre_1.jpg)
+</h2>
 
 ![Photo de moi avec l'oeuvre](BIAN/medias/photo_oeuvre_1.jpg)
 
