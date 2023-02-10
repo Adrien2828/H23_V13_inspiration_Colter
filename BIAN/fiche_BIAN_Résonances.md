@@ -1,8 +1,4 @@
 # Résonances
- <h2 align="center">
-![Photo de moi avec l'oeuvre](medias/photo_oeuvre_1.jpg)
-</h2>
-
 ![Photo de moi avec l'oeuvre](medias/photo_oeuvre_1.jpg)
 
 Type d'exposition
