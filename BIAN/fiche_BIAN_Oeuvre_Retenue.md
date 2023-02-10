@@ -1,5 +1,5 @@
 # Résonances
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+![MarineGEO circle logo](BIAN/medias/photo_oeuvre_1.jpg "MarineGEO logo")
 
 
 
