@@ -1,6 +1,6 @@
 # Résonances
  <h2 align="center">
-  ![Image](BIAN/medias/photo_oeuvre_1.jpg)
+![image de l'oeuvre]()
 </h2>
 
 ![Photo de moi avec l'oeuvre](BIAN/medias/photo_oeuvre_1.jpg)
