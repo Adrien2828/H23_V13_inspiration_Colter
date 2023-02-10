@@ -1,9 +1,10 @@
 # Résonances
-![Photo de moi avec l'oeuvre](medias/photo_oeuvre_1.jpg)
+![Photo de l'oeuvre](medias/photo_oeuvre_1.jpg)
 
-Type d'exposition
+L'oeuvre Résonance, était en exposition a Montréal
+Type d'exposition:.....
 
-Date de la visite
+J'ai visiter
 
 Nom de l'artiste: Louis-Philippe Rondeau
 
