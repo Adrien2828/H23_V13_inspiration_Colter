@@ -6,8 +6,6 @@ J'ai visiter cette exposition le 3 février 2023.**
 
 ![Photo de moi devant le batiment](medias/photo_moi_devant_batiment.jpg)
 C'est moi sur la droite :smiley: :thumbsup:
-
-![Photo de moi devant le batiment](medias/photo_moi_batiment_800_600.jpg)
 #
 
 Type d'exposition:.....
