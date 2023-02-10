@@ -9,7 +9,7 @@ C'est moi sur la droite :smiley: :thumbsup:
 #
 
 ## Type d'exposition
-Résonances est une exposition qui se passe a l'intérieure et temporaire, elle ne va pas rester là pour toujours.
+Résonances est une exposition qui se passe a l'intérieure et qui est temporaire, elle ne va pas rester là pour toujours.
 
 Nom de l'artiste: Louis-Philippe Rondeau
 
