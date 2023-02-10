@@ -2,15 +2,14 @@
 ![Photo de l'oeuvre](medias/photo_oeuvre_1.jpg)
 #
 **L'oeuvre Résonance, était en exposition pendant ma visite a l'Arsenal art contemporain de Montréal.
-J'ai visiter cette exposition le 3 février 2023.**
+J'ai visiter cette exposition le 3 février 2023 a l'exposition BIAN.**
 
 ![Photo de moi devant le batiment](medias/photo_moi_devant_batiment.jpg)
 C'est moi sur la droite :smiley: :thumbsup:
 #
 
-Type d'exposition:.....
-
-J'ai visiter
+## Type d'exposition
+Résonances est une exposition qui se passe a l'intérieure et temporaire, elle ne va pas rester là pour toujours.
 
 Nom de l'artiste: Louis-Philippe Rondeau
 
