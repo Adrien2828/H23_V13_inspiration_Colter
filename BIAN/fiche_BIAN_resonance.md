@@ -28,7 +28,7 @@ RESONANCES is a metaphor for the passage of time. However, instead of expressing
 
 L'oeuvre résonnace est un installation Intéractive
 Voici une vidéo pour vous le démontrez.
-Type d'installation: Interactive: [Video interactif](https://youtu.be/2OLwPezuT4A)
+Type d'installation: Interactive: [Video intéractif](https://youtu.be/2OLwPezuT4A)
 
 
 
