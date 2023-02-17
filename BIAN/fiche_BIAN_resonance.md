@@ -46,7 +46,7 @@ Photo des lumières
 ![Photo des lumières](medias/photo_lumière.jpg)
 
 Photo de l'écran
-![Photo des lumières](medias/photo_lumière.jpg)
+![Photo des lumières](medias/photo_ecran.jpg)
 
 Pour l'exposition soit exposée, il faut que la salle d'exposition aille.
 * Des caches files
