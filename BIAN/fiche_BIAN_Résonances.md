@@ -24,7 +24,8 @@ source:[L'information sur l'expoistion](http://patenteux.com/wp/portfolio/resona
 Type d'installation: Interactive
 [Video interactif](https://youtu.be/2OLwPezuT4A)
 
-![Photo dans la salle()
+Photo de mise en espace
+![Photo dans la salle](medias/photo_oeuvre_structure.jpg)
 
 L'oeuvre est placé dans un endroit ou tu peux la voir directement en rentrant. Elle prend beaucoup de place car pour cette oeuvre, il faut un très grand écran et une grosse structure pour q'une personne soit capable de passé dedans. DISPOSÉ???????
 
