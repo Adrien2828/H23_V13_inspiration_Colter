@@ -1,7 +1,7 @@
 # BIAN
 ![affiche de BIAN](medias/affiche_bian.png)
 L'affiche de l'exposition:[Site de l'exposition](https://www.elektramontreal.ca/biennale2022?lang=fr)
-
+#
 **L'oeuvre Résonance, était en exposition pendant ma visite a l'Arsenal art contemporain de Montréal.
 J'ai visiter cette exposition le 3 février 2023 a l'exposition BIAN.**
 ![Photo de moi devant le batiment](medias/photo_moi_devant_batiment.jpg)
