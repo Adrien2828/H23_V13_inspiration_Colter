@@ -1,4 +1,6 @@
-# Résonances
+# BIAN
+![affiche de BIAN](medias/affiche_)
+## Résonances
 ![Photo de l'oeuvre](medias/photo_oeuvre_1.jpg)
 #
 **L'oeuvre Résonance, était en exposition pendant ma visite a l'Arsenal art contemporain de Montréal.
