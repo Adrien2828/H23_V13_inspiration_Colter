@@ -13,6 +13,7 @@ J'ai visiter cette exposition le 3 février 2023 a l'exposition BIAN.**
 
 ## Résonances
 ![Photo de l'oeuvre](medias/photo_oeuvre_1.jpg)
+Source: [Site de l'exposition](https://www.elektramontreal.ca/biennale2022?lang=fr)
 #
 
 ## Type d'exposition
@@ -22,21 +23,24 @@ Nom de l'artiste: Louis-Philippe Rondeau
 
 Année de réalisation: 2021
 
-![Image cartel](BIAN/medias/photo_oeuvre_1.jpg)
+![Image cartel](BIAN/medias/photo_cartel.jpg)
 RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle. Cette boucle visuelle et sonore permet à l’interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière. La pièce a été dévoilée en décembre 2021 lors de l’exposition CORPS DATA à l’Ilot Balmoral en collaboration avec ELEKTRA .
 
 RESONANCES is a metaphor for the passage of time. However, instead of expressing the linearity of time, this interactive installation evokes the way in which the actions of the present are overlapping with those of the past. Like a visual and sound echo, RESONANCES represents our previous actions that resurface, amplifying the present, and becoming in turn past, like a perpetual temporal mise en abyme. This visual and sound loop allows the interactor to choreograph their present by building it on their own past, in a playful and singular way. The piece was unveiled in December 2021 during the CORPS DATA exhibition at the Ilot Balmoral in collaboration with ELEKTRA.
 [L'information sur l'expoistion](http://patenteux.com/wp/portfolio/resonances-2021/)
 
-Type d'installation: Interactive
-[Video interactif](https://youtu.be/2OLwPezuT4A)
+L'oeuvre résonnace est un installation Intéractive
+Voici une vidéo pour vous le démontrez.
+Type d'installation: Interactive: [Video interactif](https://youtu.be/2OLwPezuT4A)
+
+
 
 Photo de mise en espace
 ![Photo dans la salle](medias/photo_oeuvre_structure.jpg)
 
-L'oeuvre est placé dans un endroit ou tu peux la voir directement en rentrant. Elle prend beaucoup de place car pour cette oeuvre, il faut un très grand écran et une grosse structure pour q'une personne soit capable de passé dedans. DISPOSÉ???????
+L'oeuvre est placé dans un endroit ou tu peux la voir directement en rentrant. Elle prend beaucoup de place car pour cette oeuvre, il faut un très grand écran et une grosse structure pour q'une personne soit capable de passé dedans. Aussi, la structure est placé juste devant le grand écran.
 
-Pour l'exposition soit eposée, il faut avoir:
+Pour l'exposition soit eposée, il faut avoir c'est composant technique.:
 * La structure principale pour avoir un espace ou le sujet puisse passé.
 * Une caméra pour capturer le sujet qui passe dans la structure.
 * Des lumières blanche pour illuminer le sujet qui passe dans la structure.
@@ -50,6 +54,11 @@ Photo de la caméra
 
 Photo des lumières
 ![Photo des lumières](medias/photo_lumière.jpg)
+
+Photo de l'écran
+![Photo des lumières](medias/photo_lumière.jpg)
+
+Pour l'exposition soit exposée, il faut que la salle d'exposition 
 
 
 
