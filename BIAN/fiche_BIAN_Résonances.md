@@ -38,6 +38,10 @@ Pour l'exposition soit eposée, il faut avoir:
 Photo de la structure
 ![Photo de la structure](medias/photo_oeuvre_structure.jpg)
 
+Photo de la caméra
+![Photo de la cméra]()
+
+
 
 
 Élément nécessaire a l'exposition (cable, projecteur, etc.)
