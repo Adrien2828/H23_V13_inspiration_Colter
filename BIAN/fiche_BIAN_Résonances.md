@@ -1,5 +1,5 @@
 # BIAN
-![affiche de BIAN](medias/affiche_)
+![affiche de BIAN](medias/affiche_bian)
 ## Résonances
 ![Photo de l'oeuvre](medias/photo_oeuvre_1.jpg)
 #
