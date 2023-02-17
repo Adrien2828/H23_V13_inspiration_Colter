@@ -47,7 +47,7 @@ Photo de la structure
 ![Photo de la structure](medias/photo_oeuvre_structure.jpg)
 
 Photo de la caméra
-![Photo de la cméra](photo_oeuvre_camera.jpg)
+![Photo de la cméra](medias/photo_oeuvre_camera.jpg)
 
 Photo des lumières
 ![Photo des lumières](medias/photo_lumière.jpg)
