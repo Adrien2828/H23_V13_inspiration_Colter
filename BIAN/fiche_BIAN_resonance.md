@@ -11,7 +11,6 @@ C'est moi sur la droite :smiley: :thumbsup:
 ![Photo de l'oeuvre](medias/photo_oeuvre.webp)
 Source: [Site de l'oeuvre](https://www.elektramontreal.ca/biennale2022?lang=fr)
 #
-
 ## Type d'exposition
 Résonances est une exposition qui se passe a l'intérieure et qui est temporaire, elle ne va pas rester là pour toujours.
 
