@@ -9,7 +9,7 @@ C'est moi sur la droite :smiley: :thumbsup:
 #
 ## Résonances
 ![Photo de l'oeuvre](medias/photo_oeuvre.webp)
-Source: [Site de l'exposition](https://www.elektramontreal.ca/biennale2022?lang=fr)
+Source: [Site de l'oeuvre](https://www.elektramontreal.ca/biennale2022?lang=fr)
 #
 
 ## Type d'exposition
