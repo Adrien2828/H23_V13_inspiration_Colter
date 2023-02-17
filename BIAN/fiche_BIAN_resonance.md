@@ -21,11 +21,10 @@ RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’
 [L'information sur l'expoistion](http://patenteux.com/wp/portfolio/resonances-2021/)
 
 L'oeuvre résonnace est un installation Intéractive
-Voici une vidéo pour vous le démontrez.
+Voici une vidéo pour vous la démontrez.
 Type d'installation: Interactive: [Video intéractif](https://youtu.be/2OLwPezuT4A)
 
-
-
+# Plus d'information
 Photo de mise en espace
 ![Photo dans la salle](medias/photo_oeuvre_structure.jpg)
 
@@ -51,14 +50,16 @@ Photo de l'écran
 
 Pour l'exposition soit exposée, il faut que la salle d'exposition aille.
 * Des caches files
+
 L'exposition est très indépendante alors elle na pas besoin de beacoup de chose de la place d'exposition.
 
-Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci	Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre.
-
+## Expérienc vécue
 Ce qui est attendu d'un visiteur avec cette oeuvre c'est que le visiteur passe a travers la strucutre puis qu'il regarde les images de lui sur le grand écran devant la strucutre. Pour moi cette expérience était très amusant. Faire drole de visage puis les voir apraître sur le grand écran, ou laisser mon bras plus lontemps devant la caméra pour me donner de long bras, très drole.
 
+## Ce qui ma plus
 J'ai bien aimé pourvoir voir des images de mois ce déplacer de droite a gauche sur le grand écran. Tu pouvais juste passé dans la structure puis ensuite en une seconde voir une image de toi sur l'écran. J'ai vraiment aimé comment l'oeuvre était rapidement réactive. Pas de gros delai, presque instantaner. C'est très impressionant, une des raison pourquoi j'ai bein apprécier l'oeuvre. :heart:
 
+## Quelque chose que je ne changerais pas.
 Une chose que je trouve que je ne pourrais pas enlever, sa serait le grand écran. Le fait que cette écran soit aussi gros fait de l'oeuvre une oeuvre super impressionante. Cette écran est vraiment la chose qui vien donner l'effet "WOW" a tout ceux qui viennent la voir.
 
 
