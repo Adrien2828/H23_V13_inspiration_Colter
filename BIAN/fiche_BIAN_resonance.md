@@ -18,7 +18,8 @@ Résonances c’est une exposition qui se passe à l'intérieure et qui est temp
 
 ## Description de l'oeuvre
 RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle. Cette boucle visuelle et sonore permet à l’interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière. La pièce a été dévoilée en décembre 2021 lors de l’exposition CORPS DATA à l’Ilot Balmoral en collaboration avec ELEKTRA .
-[L'information sur l'expoistion](http://patenteux.com/wp/portfolio/resonances-2021/)
+
+Source:[L'information sur l'expoistion](http://patenteux.com/wp/portfolio/resonances-2021/)
 
 L'œuvre Résonance est une installation interactive.
 Voici une vidéo pour vous la démontrez: [Video interactif](https://youtu.be/2OLwPezuT4A)
