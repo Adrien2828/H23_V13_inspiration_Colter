@@ -55,19 +55,14 @@ Photo des lumières
 Photo de l'écran
 ![Photo des lumières](medias/photo_lumière.jpg)
 
-Pour l'exposition soit exposée, il faut que la salle d'exposition 
-
-
-
-
-
-
-
-Élément nécessaire a l'exposition (cable, projecteur, etc.)
+Pour l'exposition soit exposée, il faut que la salle d'exposition aille.
+* Des caches files
+L'exposition est très indépendante alors elle na pas besoin de beacoup de chose de la place d'exposition.
 
 Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci	Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre.
 
 ❤️ Ce qui vous a plu, vous a donné des idées	Éléments pertinents	Texte à rédiger qui présente un ou des aspects inspirants, avec justifications détaillées (pourquoi est-ce que cela vous a plus/ vous a donné des idées ?
+J'ai bien aimé pourvoir voir des images de mois ce déplacer de droite a gauche sur le grand écran. Tu pouvais juste passé dans la structure puis ensuite en une seconde voir une image de toi sur l'écran. J'ai vraiment aimé comment l'oeuvre était rapidemnt C'est très impressionant.
 
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement	Éléments pertinents	Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec justifications détaillées (pourquoi? comment?)
 
