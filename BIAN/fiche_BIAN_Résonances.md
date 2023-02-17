@@ -1,5 +1,7 @@
 # BIAN
 ![affiche de BIAN](medias/affiche_bian.png)
+L'affiche de l'exposition.[Site de l'exposition](https://www.elektramontreal.ca/biennale2022?lang=fr)
+
 ![Photo de moi devant le batiment](medias/photo_moi_devant_batiment.jpg)
 C'est moi sur la droite :smiley: :thumbsup:
 #
