@@ -43,7 +43,7 @@ Photo de la caméra.
 ![Photo de la cméra](medias/photo_oeuvre_camera.jpg)
 
 Photo des lumières.
-![Photo des lumières](medias/photo_lumière.jpg)
+![Photo des lumières](medias/photo_lumiere.jpg)
 
 Photo de l'écran.
 ![Photo des lumières](medias/photo_ecran.jpg)
