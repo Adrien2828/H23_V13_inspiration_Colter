@@ -53,7 +53,7 @@ Pour l'exposition soit exposée, il faut que la salle d'exposition aille.
 
 L'exposition est très indépendante alors elle na pas besoin de beacoup de chose de la place d'exposition.
 
-## Expérienc vécue
+## Expérience vécue
 Ce qui est attendu d'un visiteur avec cette oeuvre c'est que le visiteur passe a travers la strucutre puis qu'il regarde les images de lui sur le grand écran devant la strucutre. Pour moi cette expérience était très amusant. Faire drole de visage puis les voir apraître sur le grand écran, ou laisser mon bras plus lontemps devant la caméra pour me donner de long bras, très drole.
 
 ## Ce qui ma plus
