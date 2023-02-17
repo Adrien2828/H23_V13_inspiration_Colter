@@ -2,17 +2,14 @@
 ![affiche de BIAN](medias/affiche_bian.png)
 L'affiche de l'exposition:[Site de l'exposition](https://www.elektramontreal.ca/biennale2022?lang=fr)
 
+**L'oeuvre Résonance, était en exposition pendant ma visite a l'Arsenal art contemporain de Montréal.
+J'ai visiter cette exposition le 3 février 2023 a l'exposition BIAN.**
 ![Photo de moi devant le batiment](medias/photo_moi_devant_batiment.jpg)
 C'est moi sur la droite :smiley: :thumbsup:
 #
 ## Résonances
 ![Photo de l'oeuvre](medias/photo_oeuvre.webp)
 #
-**L'oeuvre Résonance, était en exposition pendant ma visite a l'Arsenal art contemporain de Montréal.
-J'ai visiter cette exposition le 3 février 2023 a l'exposition BIAN.**
-
-## Résonances
-![Photo de l'oeuvre](medias/photo_oeuvre_1.jpg)
 Source: [Site de l'exposition](https://www.elektramontreal.ca/biennale2022?lang=fr)
 #
 
