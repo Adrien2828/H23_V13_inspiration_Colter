@@ -24,7 +24,7 @@ source:[L'information sur l'expoistion](http://patenteux.com/wp/portfolio/resona
 Type d'installation: Interactive
 [Video interactif](https://youtu.be/2OLwPezuT4A)
 
-![Photo dans la salle(BIAN/medias/photo_oeuvre_1.jpg)
+![Photo dans la salle()
 
 L'oeuvre est placé dans un endroit ou tu peux la voir directement en rentrant. Elle prend beaucoup de place car pour cette oeuvre, il faut un très grand écran et une grosse structure pour q'une personne soit capable de passé dedans. DISPOSÉ???????
 
@@ -35,7 +35,7 @@ Pour l'exposition soit eposée, il faut avoir:
 * Un très grand écran pour aficher le sujet qui est passé dans la structure.
 
 Photo de la structure
-![Photo de la structure]()
+![Photo de la structure](medias/photo_oeuvre_structure.jpg)
 
 
 
