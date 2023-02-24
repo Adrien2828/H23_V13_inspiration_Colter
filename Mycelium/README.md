@@ -1,4 +1,4 @@
-Ce dossier contient le présentation des projets:
+Ce dossier contient la présentation des projets:
 * Echomarine
 * EDRIA Luma Sol 
 * Boucler le boucle
