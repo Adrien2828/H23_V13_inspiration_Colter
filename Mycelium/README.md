@@ -1,6 +1,7 @@
 Ce dossier contient la présentation des projets:
 * Echomarine
-* EDRIA Luma Sol 
+* EDRIA
+* Luma Sol 
 * Boucler le boucle
 * Zodie-Gal
 
