@@ -17,3 +17,5 @@ Source de l'image: [Texte ici]()
 
 ## Ce que je pense que je vais ressentir après l'experience du projet
 
+## Pourquoi j'ai placé son projet dans cette position pour mon ordre de préférence.
+Ordre de préférence:
