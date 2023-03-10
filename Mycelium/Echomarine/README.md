@@ -1,5 +1,5 @@
 Ce dossier contient:
 
 * Le dossier medias
-* La fiche de présentation du Projet Echomarine
+* La fiche de présentation du projet Echomarine
 
