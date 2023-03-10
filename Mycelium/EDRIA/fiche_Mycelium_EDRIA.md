@@ -1,11 +1,19 @@
 # Titre de l'oeuvre
 
 ## Le lien avec Mycelium
+Créé par...
 
 
-L'installation en cours
+## L'installation en cours
 ![Photo de l'instalation en cours]()
-Le schéma de l'installation prévue
+
+## Le schéma de l'installation prévue
 ![Photo de l'instalation en cours]()
-Source de l'image: 
+Source de l'image: [Texte ici]()
+
+## Trois cours du programme nécéssaire à la création du projet
+
+## Composante technique utilisé dans le projet.
+
+## Ce que je pense que je vais ressentir après l'experience du projet
 
