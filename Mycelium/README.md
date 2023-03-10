@@ -6,4 +6,4 @@ Ce dossier contient la présentation des projets:
 * Nexum
 * Zodie-Gal
 
-L'information pour tout ces dossier on été recolté avec mon partenaraire Matis Labelle.
+L'information pour tout ces dossier on été recolté avec mon partenaire Matis Labelle.
