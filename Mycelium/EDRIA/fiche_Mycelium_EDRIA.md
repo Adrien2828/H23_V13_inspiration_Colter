@@ -1,4 +1,4 @@
-# Titre de l'oeuvre
+# EDRIA
 Créé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir.
 
 ## L'installation en cours
