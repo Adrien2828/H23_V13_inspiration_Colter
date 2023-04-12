@@ -5,17 +5,21 @@ Créé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem 
 ![Photo de l'instalation en cours](medias/oeuvre_edria.jpg)
 
 ## Le lien avec Mycelium
-
+Le projets EDRIA, fait un lien avec la nature et la technologie. Ils utilisent des fausses plantes dans leur installations pour faire penser au arbres, en même temps il utilise la technologie pour les lumières.
 ## Le schéma de l'installation prévue
 ![Photo de l'instalation en cours]()
 Source de l'image: [Texte ici]()
 
-## Trois cours du programme nécéssaire à la création du projet
+## Cours nécéssaire
+Trois cours du programme qui sont nécéssaire à la création de ce projets.
+* Animation 2d
+* Installation mulitimédia
+* Conception d'une expérience multimédia
+## Composante technique.
+Pour ce projet, un capteur de.
 
-## Composante technique utilisé dans le projet.
-
-## Ce que je pense que je vais ressentir après l'experience du projet
-
+## Mon ressenti 
+Après l'oeuvre.
 ## Pourquoi j'ai placé son projet dans cette position pour mon ordre de préférence.
 Ordre de préférence:
 * 1 Echomarine
