@@ -1,11 +1,10 @@
 # Titre de l'oeuvre
-
-## Le lien avec Mycelium
-Créé par...
-
+Créé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir.
 
 ## L'installation en cours
 ![Photo de l'instalation en cours]()
+
+## Le lien avec Mycelium
 
 ## Le schéma de l'installation prévue
 ![Photo de l'instalation en cours]()
@@ -18,7 +17,6 @@ Source de l'image: [Texte ici]()
 ## Ce que je pense que je vais ressentir après l'experience du projet
 
 ## Pourquoi j'ai placé son projet dans cette position pour mon ordre de préférence.
-Ordre de préférence:
 Ordre de préférence:
 * 1 Echomarine
 * 2 Luma Sol
