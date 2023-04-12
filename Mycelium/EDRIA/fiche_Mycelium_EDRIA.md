@@ -2,7 +2,7 @@
 Créé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir.
 
 ## L'installation en cours
-![Photo de l'instalation en cours](Mycelium/EDRIA/medias/oeuvre_edria.jpg)
+![Photo de l'instalation en cours]/medias/oeuvre_edria.jpg)
 
 ## Le lien avec Mycelium
 
