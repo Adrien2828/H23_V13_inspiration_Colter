@@ -1,27 +1,25 @@
-# Titre de l'oeuvre
-
-## Le lien avec Mycelium
-Créé par...
-
+# Luma Sol
+Créé par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
 
 ## L'installation en cours
-![Photo de l'instalation en cours]()
+![Photo de l'instalation en cours](medias/oeuvre_edria.jpg)
 
-## Le schéma de l'installation prévue
-![Photo de l'instalation en cours]()
-Source de l'image: [Texte ici]()
+## Lien avec Mycelium
+Le projets EDRIA, fait un lien avec la nature et la technologie. Ils utilisent des fausses plantes dans leur installations pour faire penser au arbres, en même temps il utilise la technologie pour les lumières.
+## Schéma de l'installation
+![Photo de l'instalation en cours](medias/shema_installation.png)
 
-## Trois cours du programme nécéssaire à la création du projet
+Source de l'image: [Leur site web](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
 
-## Composante technique utilisé dans le projet.
+## Cours nécéssaire
+Trois cours du programme qui sont nécéssaire à la création de ce projets.
+* Animation 2d
+* Installation mulitimédia
+* Conception d'une expérience multimédia
+## Composante technique
+Pour ce projet, un capteur de.
 
-## Ce que je pense que je vais ressentir après l'experience du projet
+## Mon ressenti 
+Je pense que quand je vais expériementé l'oeuvre, je vais être imprsionné pas la place que l'oeuvre va prendre. Dans leur cartographie il est prévu que l'oeuvre va prendre beaucoup de place. Avec les lumières et le son ambiants, je pense que sa va très immersif.
 
-## Pourquoi j'ai placé son projet dans cette position pour mon ordre de préférence.
-Ordre de préférence:
-* 1 Echomarine
-* 2 Luma Sol
-* 4 Nexum
-* 5 EDRIA
-* 6 Zodie-Gal
-BLABLABLABLALBABLABL
+![Photo de l'instalation en cours](medias/cartographie.png)
