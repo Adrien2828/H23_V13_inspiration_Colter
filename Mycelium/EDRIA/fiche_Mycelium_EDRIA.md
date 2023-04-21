@@ -20,11 +20,4 @@ Pour ce projet, un capteur de.
 
 ## Mon ressenti 
 Après l'oeuvre.
-## Pourquoi j'ai placé son projet dans cette position pour mon ordre de préférence.
-Ordre de préférence:
-* 1 Echomarine
-* 2 Luma Sol
-* 4 Nexum
-* 5 EDRIA
-* 6 Zodie-Gal
-BLABLABLABLALBABLABL
+
