@@ -7,8 +7,8 @@ Créé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem 
 ## Lien avec Mycelium
 Le projets EDRIA, fait un lien avec la nature et la technologie. Ils utilisent des fausses plantes dans leur installations pour faire penser au arbres, en même temps il utilise la technologie pour les lumières.
 ## Schéma de l'installation
-![Photo de l'instalation en cours]()
-Source de l'image: [Texte ici]()
+![Photo Shéma d'installation](media/cartographie.png)
+Source de l'image: [Leur site web](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
 
 ## Cours nécéssaire
 Trois cours du programme qui sont nécéssaire à la création de ce projets.
