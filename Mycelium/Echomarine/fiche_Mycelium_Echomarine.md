@@ -1,27 +1,24 @@
-# Titre de l'oeuvre
-
-## Le lien avec Mycelium
-Créé par...
-
+# Echomarine
+Créé par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel.
 
 ## L'installation en cours
-![Photo de l'instalation en cours]()
+![Photo de l'instalation en cours](medias/)
 
-## Le schéma de l'installation prévue
-![Photo de l'instalation en cours]()
-Source de l'image: [Texte ici]()
+## Lien avec Mycelium
+Le projets EDRIA, fait un lien avec la nature et la technologie. Ils utilisent des fausses plantes dans leur installations pour faire penser au arbres, en même temps il utilise la technologie pour les lumières.
+## Schéma de l'installation
+![Photo de l'instalation en cours](medias/shema_installation.png)
 
-## Trois cours du programme nécéssaire à la création du projet
+Source de l'image: [Leur site web](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
 
-## Composante technique utilisé dans le projet.
+## Cours nécéssaire
+Trois cours du programme qui sont nécéssaire à la création de ce projets.
+* Animation 2d
+* Intégration Web
+* Traitement vidéo
+## Composante technique
+Pour ce projet, un capteur de.
 
-## Ce que je pense que je vais ressentir après l'experience du projet
+## Mon ressenti 
+Je pense que quand je vais expériementé l'oeuvre, je pense que ça va être impressionant à cause des animaux qui vont ce promener de mur en mur.
 
-## Pourquoi j'ai placé son projet dans cette position pour mon ordre de préférence.
-Ordre de préférence:
-* 1 Echomarine
-* 2 Luma Sol
-* 4 Nexum
-* 5 EDRIA
-* 6 Zodie-Gal
-BLABLABLABLALBABLABL
