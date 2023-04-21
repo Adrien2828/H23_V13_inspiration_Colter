@@ -5,7 +5,7 @@ Créé par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel.
 ![Photo de l'instalation en cours](medias/mur_ecomarine.jpg)
 
 ## Lien avec Mycelium
-Le projets EDRIA, fait un lien avec la nature et la technologie. Ils utilisent des fausses plantes dans leur installations pour faire penser au arbres, en même temps il utilise la technologie pour les lumières.
+Le projets Echomarine, fait un lien avec la nature et la technologie. Avec la technologie, il donner l'impression d'être sous l'eau et de voir des animaux marins.
 ## Schéma de l'installation
 ![Photo de l'instalation en cours](medias/shema_installation.png)
 
