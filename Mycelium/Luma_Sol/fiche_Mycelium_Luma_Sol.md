@@ -13,8 +13,8 @@ Source de l'image: [Leur site web](https://tim-montmorency.com/2023/projets/Luma
 
 ## Cours nécéssaire
 Trois cours du programme qui sont nécéssaire à la création de ce projets.
+* Taitement viédo
 * Animation 2d
-* Installation mulitimédia
 * Conception d'une expérience multimédia
 ## Composante technique
 Pour ce projet, un capteur de.
