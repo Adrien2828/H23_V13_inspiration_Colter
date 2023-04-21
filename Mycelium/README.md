@@ -6,6 +6,6 @@ Ce dossier contient la présentation des projets:
  * EDRIA 
  * Zodie-Gal
  
- On retrouve aussi ma fiche de présenation de mon projet terminer et ma fiche de pésentation de l'ordre de préférence.
+ On retrouve aussi la fiche de présenation de mon projet terminer préféré et la fiche de pésentation de l'ordre de préférence.
 
 (L'information pour tout ces dossier on été récolté avec mon partenaire Matis Labelle.)
