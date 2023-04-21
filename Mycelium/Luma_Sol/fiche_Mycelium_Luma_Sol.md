@@ -9,7 +9,7 @@ Le projets EDRIA, fait un lien avec la nature et la technologie. Ils utilisent d
 ## Schéma de l'installation
 ![Photo de l'instalation en cours](medias/shema_installation.png)
 
-Source de l'image: [Leur site web](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
+Source de l'image: [Leur site web](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html)
 
 ## Cours nécéssaire
 Trois cours du programme qui sont nécéssaire à la création de ce projets.
