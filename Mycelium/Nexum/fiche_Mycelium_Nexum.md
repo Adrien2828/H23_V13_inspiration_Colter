@@ -1,21 +1,21 @@
-# EDRIA
+# Nexum
 Créé par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers.
 
 ## L'installation en cours
 ![Photo de l'instalation en cours](medias/oeuvre_nexum.jpg)
 
 ## Lien avec Mycelium
-Le projets EDRIA, fait un lien avec la nature et la technologie. Ils utilisent des fausses plantes dans leur installations pour faire penser au arbres, en même temps il utilise la technologie pour les lumières.
+Le projets Nexum, fait un lien avec la nature et la technologie. Ils utilisent des plantes dans leur installations pour faire penser au arbres, en même temps il utilise la technologie pour les lumières. Voilà le lien avec Mycelium.
 ## Schéma de l'installation
 ![Photo de l'instalation en cours](medias/shema_installation.png)
 
-Source de l'image: [Leur site web](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
+Source de l'image: [Leur site web](https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html)
 
 ## Cours nécéssaire
 Trois cours du programme qui sont nécéssaire à la création de ce projets.
+* Traitement vidéo
 * Animation 2d
-* Installation mulitimédia
-* Conception d'une expérience multimédia
+* Conceptin d'un projet mutlimédia
 ## Composante technique
 Pour ce projet, une caméra POE sera utiliser pour le projet. Une caméra POE permet d'utiliser un seul cable pour l'utliser. Sans caméra POE, il faudrait plus d'un cable, un pour la connection Ethernet et un pour l'alimentation.
 
