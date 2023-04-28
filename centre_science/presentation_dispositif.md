@@ -9,7 +9,7 @@ Le dispositif Pas facile de saisir la balle au bond était en exposition au Cent
 J'ai visité cette exposition le 12 avril.
 #
 ## Type d'exposition
-Résonances c’est une exposition qui se passe à l'intérieure et qui est permanente, elle va rester la longtemps. Le nom du créateur du dispositif n'a pas été donné.
+Pas facile de saisir la balle au bond c’est une exposition qui se passe à l'intérieure et qui est permanente, elle va rester la longtemps. Je suis aller plusieur fois dans ma vie puis a chaque fois, ce dispositf était là. Le nom du créateur du dispositif n'a pas été donné.
 
 ![Image cartel](medias/description.jpg)
 
@@ -53,8 +53,10 @@ Photo de la zone sur le sol.
 ## Expérience vécue
 Ce qui est attendu d'un visiteur avec cette œuvre c'est que le visiteur passe à travers la structure puis qu'il regarde les images de lui sur le grand écran. Pour moi, cette expérience était très amusante. Faire drôle de visage puis les voir apparaître sur le grand écran, ou laisser mon bras plus longtemps devant la caméra pour me donner de long bras. :laughing:
 
+Ce qui est attendu d'un visiteur c'est qu'il ce place sur la zone a terre puis qu'il essait d'arreter le but qui seront tiré dans le but virtuel sur l'écran. Pour moi, cette expérience étais très intéressante. Sa ma fais comprendre a quel point quand tu viellie, ton temps de réaction devient plus lent.
+
 ## Ce qui ma plus
-J'ai bien aimé pouvoir voir des images de mois se déplacer de droite à gauche sur le grand écran. Tu pouvais juste passer dans la structure et ensuite en une seconde voir des images de toi sur l'écran. J'ai vraiment aimé comment l'œuvre était rapidement réactive. Pas de longs délais, une expérience presque instantanée. C'est très impressionnant, une des raisons pourquoi j'ai bien apprécié l'œuvre. :heart:
+J'ai vraiment aimer comment le dispositf fait comprendre la viellesse et le temps de réaction. Donner le role de gardien de but au visiteur pis le faire essayer d'arrêter les buts ces très amusant.:heart:
 
 ## Quelque chose que je ne changerais pas
 Une chose que je ne pense pas pouvoir enlever si j'étais pour faire une œuvre comme celle-ci, ça serait le grand écran. Le fait que cet écran soit aussi gros fait de l'œuvre une œuvre impressionnante. Cet écran est vraiment la chose qui donne l'effet de "WOW" à tous ceux qui viennent la voir.
