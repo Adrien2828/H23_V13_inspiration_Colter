@@ -3,4 +3,7 @@ Ce répertoire contient les dossiers:
 
 * BIAN
 * Mycelium
-* semain_01
+* centre_science
+* conference
+* semaine_01
+* visite_individuelle
