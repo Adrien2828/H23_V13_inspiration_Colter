@@ -59,5 +59,5 @@ Ce qui est attendu d'un visiteur c'est qu'il ce place sur la zone a terre puis q
 J'ai vraiment aimer comment le dispositf fait comprendre la viellesse et le temps de réaction. Donner le role de gardien de but au visiteur pis le faire essayer d'arrêter les buts ces très amusant.:heart:
 
 ## Quelque chose que je ne changerais pas
-Une chose que je ne pense pas pouvoir enlever si j'étais pour faire une œuvre comme celle-ci, ça serait le grand écran. Le fait que cet écran soit aussi gros fait de l'œuvre une œuvre impressionnante. Cet écran est vraiment la chose qui donne l'effet de "WOW" à tous ceux qui viennent la voir.
+Je pense qu'une chose que je ne pourrait pas changer c'est le concepte. Cette idée est tellement créative. Il aurait pus juste pu crée quelque chose qui the dit de passer ta mais sur le rond rouge sur l'écran mais il on utilisé le sport du soccer. Le concepte du soccer est tout simplement trop bon pour être changé.
 
