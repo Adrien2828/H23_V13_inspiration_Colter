@@ -1,5 +1,5 @@
 # Centre des sciences
-![affiche de BIAN]()
+![affiche de BIAN](medias/moi_devant_centre.png)
 L'affiche de l'exposition: [Site de l'exposition]()
 #
 L'œuvre Résonance, était en exposition pendant ma visite à l'Arsenal d'art contemporain de Montréal.
