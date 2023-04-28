@@ -20,5 +20,4 @@ Trois cours du programme qui sont nécéssaire à la création de ce projets.
 Pour ce projet, un capteur de.
 
 ## Mon ressenti 
-Je pense que quand je vais expériementé l'oeuvre, je vais être imprsionné pas la place que l'oeuvre va prendre. Dans leur cartographie il est prévu que l'oeuvre va prendre beaucoup de place. Avec les lumières et le son ambiants, je pense que sa va très immersif.
 
