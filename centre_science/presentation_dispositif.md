@@ -25,32 +25,30 @@ Voici une photo de l'écran
 Voici une petite vidéo pour vous démontrez comment l'oeuvre fonctionnent: [![IMAGE ALT TEXT HERE](medias/oeuvre_espace.jpg)](https://youtu.be/4xbXgVgLWYk)
 
 
-# Plus d'information
+# Mise en espace
 Photo de mise en espace.
-![Photo dans la salle]()
+![Photo dans la salle](medias/espace.jpg)
 
-L'œuvre est placée dans un endroit où tu peux la voir directement en rentrant. Elle prend beaucoup de place, car pour cette œuvre, il faut un très grand écran et une grosse structure pour qu'une personne soit capable de passé dedans. Aussi, la structure est placée juste devant le grand écran.
+Le dispositif est placé au deuxième étage du centre des sciences. Il est placé là, car c'est une œuvre permanente. Les œuvres temporaires du centre des sciences sont placées au premier étage. Le dispositif a été placé dans un couloir collé à un mur. Il faut beaucoup d'espace pour ce dispositif, car il faut une place pour mettre l'écran et une zone sur le sol pour l'utilisateur.
 
+## Compsantes techniques
 Pour que l'exposition soit exposée, il faut avoir ces composants techniques.
-* La structure principale pour avoir un espace où le sujet puisse passer.
-* Une caméra pour capturer le sujet qui passe dans la structure.
-* Des lumières blanches pour illuminer le sujet qui passe dans la structure.
-* Un très grand écran pour afficher le sujet qui est passé dans la structure.
+* Un capteur du genre Xbox Kinect pour capté le mouvement du joueur.
+* Un grand écran pour jouer le role du gardien.
+* Un file élécrique pour almimenté le dispositif.(Il utilise un file de la même couleur que le mur en arrière pour diminuer sa visibilité)
+* Une zone sur le sol pour que l'utilisateur puisse ce placer a bonne endroit.
 
-Photo de la structure.
-![Photo de la structure](medias/photo_oeuvre_structure.jpg)
-
-Photo de la caméra.
-![Photo de la cméra](medias/photo_oeuvre_camera.jpg)
-
-Photo des lumières.
-![Photo des lumières](medias/photo_lumiere.jpg)
+Photo du capteur.
+![Photo de la structure](medias/camera_capteur.jpg)
 
 Photo de l'écran.
-![Photo des lumières](medias/photo_ecran.jpg)
+![Photo de la cméra](medias/ecran.jpg)
 
-Pour que l'exposition soit exposée, il faut que la salle d'exposition aille:
-* Des caches files.
+Photo du file.
+![Photo des lumières](medias/file.jpg)
+
+Photo de la zone sur le sol.
+![Photo des lumières](medias/zone_sol.jpg)
 
 ## Expérience vécue
 Ce qui est attendu d'un visiteur avec cette œuvre c'est que le visiteur passe à travers la structure puis qu'il regarde les images de lui sur le grand écran. Pour moi, cette expérience était très amusante. Faire drôle de visage puis les voir apparaître sur le grand écran, ou laisser mon bras plus longtemps devant la caméra pour me donner de long bras. :laughing:
