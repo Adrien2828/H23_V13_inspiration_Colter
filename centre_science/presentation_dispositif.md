@@ -1,22 +1,20 @@
 # Centre des sciences
 ![affiche de BIAN](medias/moi_devant_centre.png)
-L'affiche de l'exposition: [Site de l'exposition]()
 #
 ## Pas facile de saisir la balle au bond
-![Photo de l'oeuvre]()
-Source: [Site de l'oeuvre]()
+![Photo de l'oeuvre](medias/moi_dispositif.jpg)
 #
 ## Pas facile de saisir la balle au bond
-Le dispositif Pas facile de saisir la balle au bond, était en exposition au Centre des Sciences de Montréal.
-J'ai visité cette exposition le 3 février 2023 à l'exposition BIAN.
+Le dispositif Pas facile de saisir la balle au bond était en exposition au Centre des Sciences de Montréal.
+J'ai visité cette exposition le 12 avril.
 #
 ## Type d'exposition
-Résonances c’est une exposition qui se passe à l'intérieure et qui est temporaire, elle ne va pas rester là pour toujours. Elle a été créée par l’artiste Louis-Philippe Rondeau en 2021.
+Résonances c’est une exposition qui se passe à l'intérieure et qui est permanente, elle va rester la longtemps. Le nom du créateur du dispositif n'a pas été donné.
 
-![Image cartel]()
+![Image cartel](medias/description.jpg)
 
-## Description de l'oeuvre
-RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle. Cette boucle visuelle et sonore permet à l’interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière. La pièce a été dévoilée en décembre 2021 lors de l’exposition CORPS DATA à l’Ilot Balmoral en collaboration avec ELEKTRA.
+## Description du dispositif
+Pas facile de saisir la balle au bond est un dispositif multimédia qui démontre le temps de réaction d'une personne selon son âge. Pour utiliser le dispositif, tu dois te placer sur une zone sur le sol et regarder l'écran. Sur l'écran une silhouette de toi sera dans un but de soccer. C'est une sorte de simulation de gardien de but au soccer. Aussi sur l'écran, on peut voir des balles en direction du but. Ton but en tant que quelqu'un qui veut utiliser le dispositif, c'est d'essayer d'arrêter les buts. Tu vas pouvoir faire plusieurs arrêts, mais le plus longtemps que tu passes à arrêter les buts, le plus de temps que ton personnage sur l'écran prendra pour bouger. Ceci est fait pour te faire réaliser que les gens plus âgés ont un temps de réaction plus lent. Tu es censée pouvoir vivre l'expérience de quelqu'un de plus âgé.
 
 Source: [L'information sur l'expoistion]()
 
