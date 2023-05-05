@@ -3,8 +3,6 @@
 #
 ## Habitat Sonore
 ![Photo de l'oeuvre](medias/moi_devant_salle_ecoute.jpg)
-#
-## Habitat Sonore
 J'ai suis aller visité Habitat Sonore le 2 avril 2023.
 #
 ## Type d'exposition
