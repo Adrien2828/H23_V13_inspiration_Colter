@@ -1,3 +1,3 @@
 # Conférence de Yanick Yanick Daunais
 
-Moi et mes collège avons assister la conférence de Yanick Daunais le 24 mars. Yanick Daunais est Directeur général et producteur chez halo Création. 
+Moi et mes collège avons assister la conférence de Yanick Daunais le 24 mars. Yanick Daunais est Directeur général et producteur chez halo Création. Il est venu partagé son exprétrience de travil de la domaine du multimédias.
