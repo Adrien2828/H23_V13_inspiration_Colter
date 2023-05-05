@@ -5,11 +5,12 @@
 ![Photo de l'oeuvre](medias/moi_devant_salle_ecoute.jpg)
 #
 ## Habitat Sonore
-Habitat Sonore Pas facile de saisir la balle au bond était en exposition au Centre des Sciences de Montréal.
-J'ai visité cette exposition le 12 avril.
+J'ai suis aller visité Habitat Sonore le 2 avril 2023.
 #
 ## Type d'exposition
 Pas facile de saisir la balle au bond c’est une exposition qui se passe à l'intérieure et qui est permanente, elle va rester la longtemps. Je suis aller plusieur fois dans ma vie puis a chaque fois, ce dispositf était là. Le nom du créateur du dispositif n'a pas été donné.
+
+Habitat Sonore est une oeuvre 
 
 ![Image cartel](medias/description.jpg)
 
