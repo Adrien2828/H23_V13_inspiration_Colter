@@ -6,25 +6,20 @@
 J'ai suis aller visité Habitat Sonore le 2 avril 2023.
 #
 ## Type d'exposition
-Pas facile de saisir la balle au bond c’est une exposition qui se passe à l'intérieure et qui est permanente, elle va rester la longtemps. Je suis aller plusieur fois dans ma vie puis a chaque fois, ce dispositf était là. Le nom du créateur du dispositif n'a pas été donné.
+Habitat Sonore est une salle d'écoute qui est immersive.
 
-Habitat Sonore est une oeuvre qui est en exposition a l'intérieur. Cette oeuvre est temporaire. L'audio qui est jouer change de temps en temps, mais la salle reste là.
-
-## Description du dispositif
-Pas facile de saisir la balle au bond est un dispositif multimédia qui démontre le temps de réaction d'une personne selon son âge. Pour utiliser le dispositif, tu dois te placer sur une zone sur le sol et regarder l'écran. Sur l'écran une silhouette de toi sera dans un but de soccer. C'est une sorte de simulation de gardien de but au soccer. Aussi sur l'écran, on peut voir des balles en direction du but. Ton but en tant que quelqu'un qui veut utiliser le dispositif, c'est d'essayer d'arrêter les buts. Tu vas pouvoir faire plusieurs arrêts, mais le plus longtemps que tu passes à arrêter les buts, le plus de temps que ton personnage sur l'écran prendra pour bouger. Ceci est fait pour te faire réaliser que les gens plus âgés ont un temps de réaction plus lent. Tu es censée pouvoir vivre l'expérience de quelqu'un de plus âgé.
+## Description
+Habitat sonore c'est une salle d'écoute pour écouter plusieur audio différentes. C'est un salle ou tu peux relaxer puis apprécier le son.
 #
 
 Voici une petite vidéo pour vous démontrez comment l'oeuvre fonctionnent. **cilquer la photo** [![IMAGE ALT TEXT HERE](medias/moi_coucher.jpg)](https://youtu.be/kwGxrPS7Azs)
 
 
 # Mise en espace
-Photo de mise en espace.
-![Photo dans la salle](medias/espace.jpg)
-
-Le dispositif est placé au deuxième étage du centre des sciences. Il est placé là, car c'est une œuvre permanente. Les œuvres temporaires du centre des sciences sont placées au premier étage. Le dispositif a été placé dans un couloir collé à un mur. Il faut beaucoup d'espace pour ce dispositif, car il faut une place pour mettre l'écran et une zone sur le sol pour l'utilisateur.
+La salle d'écoute est situé dans le sous-sol du Centre Phi. Elle placer seul derrière une porte, pour ne pas déranger les reste des exposition dans le centre phi.
 
 ## Compsantes techniques
-Pour que l'exposition soit exposée, il faut avoir ces composants techniques.
+Pour que habitat sonore soit en exposition, il faut avoir ces composants techniques.
 * Haut-parleurs
 
 Haut-parleurs
@@ -43,10 +38,10 @@ Photo des LED
 ![Photo des lumières](medias/lumiere.jpg)
 
 ## Expérience vécue
-Ce qui est attendu d'un visiteur c'est qu'il ce place sur la zone a terre puis qu'il essait d'arreter le but qui seront tiré dans le but virtuel sur l'écran. Pour moi, cette expérience étais très intéressante. Sa ma fais comprendre a quel point quand tu viellie, ton temps de réaction devient plus lent.
+Je trouver que mon expérience état pas très bonne principalement à cause l'audio qui a été jouer. Pour moi, ce que la madamme dans l'audio disait c'était un peux étrange. Elle fessait des bruit bizzare des cri puis quand elle parlais, sa voix avait de modification très bizzare.
 
 ## Ce qui ma plus
-J'ai vraiment aimer comment le dispositf fait comprendre la viellesse et le temps de réaction. Donner le role de gardien de but au visiteur pis le faire essayer d'arrêter les buts ces très amusant.:heart:
+Même si l'audio était pas superb, la salle d'écoute était vraiment bien. Sa parait que la confort était quelque chose d'imporant pendant la création de cette salle, car le confort était trés bon. Le tapis pour quand tu marche c'est très bien pour les pieds. Je sais que sa un peux bizzare mais un tapis sa fait un gorsse différences. Ensuite il y a les place pour s'assoire qui étati très confortable. Et finalement, il y avait des lumière qui contribuer extrêmement bien a l'ambiance. Tout ces éléments on fait que le confort de la salle a été bien aprécié.
 
-## Quelque chose que je ne changerais pas
-Je pense qu'une chose que je ne pourrait pas changer c'est le concepte. Cette idée est tellement créative. Il aurait pus juste pu crée quelque chose qui the dit de passer ta mais sur le rond rouge sur l'écran mais il on utilisé le sport du soccer. Le concepte du soccer est tout simplement trop bon pour être changé.
+## Quelque chose que je changerais.
+Je pense que c'est claire que j'ai pas adoré l'audio qui a été jouer quand j'étais là. Si j'était pour une sort de salle sonore, je choisirait des trame audio plus intéressante. J'aimais je jouerais cette audio dans ma salle ou dans un de mes projts. Je trouve que la selction d'audio est très imporante. Je voudrait m'assurer que toutes les trames audio qui vont jouer dans la salle soit excellente.
