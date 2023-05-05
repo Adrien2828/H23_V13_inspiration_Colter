@@ -1,9 +1,6 @@
 # Mycelium
-![affiche de BIAN](medias/moi_visite_exposition_jpg)
+![affiche de BIAN](medias/moi_visite_exposition.jpg)
 Voici un photo de moi qui observre les projets finales de étudiant en troisième année.
-#
-## Pas facile de saisir la balle au bond
-![Photo de l'oeuvre](medias/moi_dispositif.jpg)
 #
 ## Echomarine
 ![Photo de l'oeuvre](medias/mur_2.jpg)
