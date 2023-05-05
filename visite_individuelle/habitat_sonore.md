@@ -1,10 +1,10 @@
 # Centre Phi
-![affiche de BIAN](medias/moi_devant_centre.png)
+![affiche de BIAN](medias/moi_devant_centre_phi.jpg)
 #
-## Pas facile de saisir la balle au bond
-![Photo de l'oeuvre](medias/moi_dispositif.jpg)
+## Habitat Sonore
+![Photo de l'oeuvre](medias/moi_devant_salle_ecoute.jpg)
 #
-## Pas facile de saisir la balle au bond
+## Habitat Sonore
 Le dispositif Pas facile de saisir la balle au bond était en exposition au Centre des Sciences de Montréal.
 J'ai visité cette exposition le 12 avril.
 #
