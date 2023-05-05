@@ -26,20 +26,21 @@
 1- Des précision sur l'oeuvre:
 
 * Nom Habitat sonore
-* Lieu Centre Phi à Montréal
+* Lieu (Centre Phi à Montréal)
 * Descrition (Montrer la vidéo pour pouvoir mieux expliquer)
-* Date de ma visite
-* Type d'exposition
-* Mise en espaces
+* Date de ma visite (2 avril)
+* Type d'exposition (Imersive)
+* Mise en espaces (Petite salle en bas)
 * Composante technique (Montrer photo du fichier .md)
 * Élément important (Montrer les photos du fichier. md)
 
 2- Mon avis
 * Mon exprérience (Parlez de mont expérience que j'ai pas vraiment aimé)
-* Ce qui ma plus (Le confort)
-* Ce que je changerais
+* Ce qui ma plus (Le confort est très bon)
+* Ce que je changerais (L' audio)
 
 ## Conclusion
-
+Rappel de ce qui a été vue, petit résumer
+Ouverture vers Bian La salle d'écoute a qui était là. (comparer et dire que habitat sonore est vraiment mieux fait. Le son ne dérange pas toute les autre oeuvres.)
 
 
