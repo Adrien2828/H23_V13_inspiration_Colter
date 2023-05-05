@@ -18,6 +18,7 @@ Trois cours du programme qui sont nécéssaire à la création de ce projets.
 * Conceptin d'un projet mutlimédia
 ## Composante technique
 Pour ce projet, une carte son sera néssésaire. Une carte son c'est un periferique qui peux généré du son sur un ordinateur. Pour pouvoir entendre la trame sonore du projet, la carte son sera une importante addition au projet.
+
 Source pour cette information: [L'information](https://www.futura-sciences.com/tech/definitions/informatique-carte-son-18393/)
 
 ## Mon ressenti 
