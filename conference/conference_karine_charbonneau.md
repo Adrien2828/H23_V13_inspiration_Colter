@@ -1,1 +1,6 @@
 # Conférence de Karine Charboneau
+Mes collège et moi avons assiter la conférence de Karine le 28 mars 2023. Pour cette conférence Karine Charboneau, qui gère une collection et la mise en exposition des projets d'un artite est venu nous partagé son expérience de travail. Le thème de cette conférence c'était le travail d'un personne qui gère les exposition de projets mulitmédias.
+
+Karine Charboneau a commencer a expliquer qu'est ce qu'elle fait pour son travail. Elle nous a explique comment elle repond a des demande de client pour une exposition puis quelle gère le tous pour eux avec c'est les gens qui travaille avec elle. Elle nous a monter plusieur des projets mulitimédias qu'elle a réaliser pour ses clients avec de collège. Elle nous a aussi explique un peu du procesus des créations d'un projet mutlitmédia. Ensuite elle nous explique comment il y a beacoup de défi pour créer ces projets.
+
+Pour conclure, j'ai trouvé la conférence un peu long. Malgré sa longuer, j'ai quand même trouver la conférence intéressante. La conférence ma fait pensée a des emplois possible que je pourrais occuper à fin de ma techinque. J'ai trouver que madame Charboneau c'est bien explique puis que la conférence était claire. J'ai quand même bine exprécier :smiley: :thumbsup: 
