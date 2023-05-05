@@ -1,4 +1,4 @@
-# Centre des sciences
+# Centre Phi
 ![affiche de BIAN](medias/moi_devant_centre.png)
 #
 ## Pas facile de saisir la balle au bond
