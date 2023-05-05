@@ -29,7 +29,7 @@ Pour que l'exposition soit exposée, il faut avoir ces composants techniques.
 * Des murs avec de l'espace pour les projections
 * Des haut-parleurs
 
-Photo d'un projecteur.
+Photo de projecteurs.
 ![Photo de la structure](medias/projecteur.jpg)
 
 Photo de la tablette.
