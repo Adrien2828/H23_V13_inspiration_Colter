@@ -42,8 +42,9 @@ Haut-parleurs
 Voici des éléments qui ne sont pas obligatoire mais bien a avoir pour améliorer l'expérience du visiteur.
 * Place confortable pour s'assoire.
 * Des lumière LED pour l'ambiance.
+* Tapis pour le confort.
 
-Voici une photo des place pour s'assoire.
+Voici une photo des place pour s'assoire et du tapis.
 ![Photo de la cméra](medias/salle_interieur.jpg)
 
 Photo des LED
