@@ -4,7 +4,6 @@
 ## Habitat Sonore
 ![Photo de l'oeuvre](medias/moi_devant_salle_ecoute.jpg)
 J'ai suis aller visité Habitat Sonore le 2 avril 2023.
-#
 ## Type d'exposition
 Habitat Sonore est une salle d'écoute qui est immersive.
 
