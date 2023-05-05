@@ -24,7 +24,7 @@ Pour qu’Habitat Sonore soit en exposition, il faille avoir ces composants tech
 Haut-parleurs
 ![Photo de la structure](medias/speaker.jpg)
 
-## Éléments recommandés
+## Éléments importants
 Voici des éléments qui ne sont pas obligatoires, mais bien à avoir pour améliorer l'expérience du visiteur.
 * Place confortable pour s'asseoir.
 * Des lumières LED pour l'ambiance.
