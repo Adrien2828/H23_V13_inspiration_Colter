@@ -17,7 +17,7 @@ Trois cours du programme qui sont nécéssaire à la création de ce projets.
 * Intégration Web
 * Traitement vidéo
 ## Composante technique
-Pour ce projet, un capteur de.
+Pour ce projet, des projecteur devront être placés de placé facons que les animaux puisse se promener sans coupure d'un mur a l'autre. Comme c'est projecteur devrons convrir les quatres mur de la salle la position des c'est projetcteur devra etre parfaite.
 
 ## Mon ressenti 
 Je pense que quand je vais expériementé l'oeuvre, je pense que ça va être impressionant à cause des animaux qui vont ce promener de mur en mur.
