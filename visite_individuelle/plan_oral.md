@@ -25,7 +25,7 @@
 
 1- Des précision sur l'oeuvre:
 
-* Nom Habitat sonore
+* Nom (Habitat sonore)
 * Lieu (Centre Phi à Montréal)
 * Descrition (Montrer la vidéo pour pouvoir mieux expliquer)
 * Date de ma visite (2 avril)
