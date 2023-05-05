@@ -3,12 +3,8 @@
 ## Le lien avec Mycelium
 Créé par Abdanor Yara
 
-
-## L'installation en cours
-![Photo de l'instalation en cours]()
-
 ## Le schéma de l'installation prévue
-![Photo de l'instalation en cours](medias/shema_installation.jpg)
+![Photo de l'instalation en cours](medias/shema_installation.png)
 Source de l'image: [Texte ici](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html)
 
 ## Trois cours du programme nécéssaire à la création du projet
