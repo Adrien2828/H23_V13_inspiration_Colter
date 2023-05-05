@@ -20,7 +20,7 @@ Voici une petite vidéo pour vous démontrez comment l'oeuvre fonctionnent. **ci
 
 
 # Mise en espace
-Le dispositif est placé au deuxième étage du centre des sciences. Il est placé là, car c'est une œuvre permanente. Les œuvres temporaires du centre des sciences sont placées au premier étage. Le dispositif a été placé dans un couloir collé à un mur. Il faut beaucoup d'espace pour ce dispositif, car il faut une place pour mettre l'écran et une zone sur le sol pour l'utilisateur.
+Le projet echomarine et placé dans une petite studio avec quatre mur les projections.
 
 ## Compsantes techniques
 Pour que l'exposition soit exposée, il faut avoir ces composants techniques.
