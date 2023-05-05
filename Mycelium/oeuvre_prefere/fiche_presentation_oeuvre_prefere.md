@@ -14,7 +14,9 @@ Ce projets est une exposition temporaire. Elle était en exposition officiel pen
 
 Source de cette information: [Leur site](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 #
-Voici une petite vidéo pour vous démontrez comment l'oeuvre fonctionnent. **cilquer la photo** [![IMAGE ALT TEXT HERE](medias/mur_1.jpg)](https://youtu.be/t1110mwZ6Ss)
+Voici une petite vidéo pour vous démontrez comment l'oeuvre fonctionnent. **cilquer la photo**
+
+[![IMAGE ALT TEXT HERE](medias/mur_1.jpg)](https://youtu.be/t1110mwZ6Ss)
 
 
 # Mise en espace
