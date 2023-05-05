@@ -40,7 +40,8 @@
 * Ce que je changerais (L' audio)
 
 ## Conclusion
-Rappel de ce qui a été vue, petit résumer
-Ouverture vers Bian La salle d'écoute a qui était là. (comparer et dire que habitat sonore est vraiment mieux fait. Le son ne dérange pas toute les autre oeuvres.)
+1-Rappel de ce qui a été vue, petit résumer
+
+2-Ouverture vers Bian La salle d'écoute a qui était là. (comparer et dire que habitat sonore est vraiment mieux fait. Le son ne dérange pas toute les autre oeuvres.)
 
 
