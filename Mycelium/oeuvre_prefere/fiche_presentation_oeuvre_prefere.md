@@ -20,29 +20,23 @@ Voici une petite vidéo pour vous démontrez comment l'oeuvre fonctionnent. **ci
 
 
 # Mise en espace
-Photo de mise en espace.
-![Photo dans la salle](medias/espace.jpg)
-
 Le dispositif est placé au deuxième étage du centre des sciences. Il est placé là, car c'est une œuvre permanente. Les œuvres temporaires du centre des sciences sont placées au premier étage. Le dispositif a été placé dans un couloir collé à un mur. Il faut beaucoup d'espace pour ce dispositif, car il faut une place pour mettre l'écran et une zone sur le sol pour l'utilisateur.
 
 ## Compsantes techniques
 Pour que l'exposition soit exposée, il faut avoir ces composants techniques.
-* Un capteur du genre Xbox Kinect pour capté le mouvement du joueur.
-* Un grand écran pour jouer le role du gardien.
-* Un file élécrique pour almimenté le dispositif.(Il utilise un file de la même couleur que le mur en arrière pour diminuer sa visibilité)
-* Une zone sur le sol pour que l'utilisateur puisse ce placer a bonne endroit.
+* Des projecteur.
+* Une tablette.
+* Des murs avec de l'espace pour les projections
 
-Photo du capteur.
-![Photo de la structure](medias/camera_capteur.jpg)
+Photo d'un projecteur.
+![Photo de la structure](medias/prjecteur.jpg)
 
-Photo de l'écran.
-![Photo de la cméra](medias/ecran.jpg)
+Photo de la tablette.
+![Photo de la cméra](medias/tablette.jpg)
 
-Photo du file.
-![Photo des lumières](medias/file.jpg)
+Photo d'un mur
+![Photo des lumières](medias/mur_2.jpg)
 
-Photo de la zone sur le sol.
-![Photo des lumières](medias/zone_sol.jpg)
 
 ## Expérience vécue
 Ce qui est attendu d'un visiteur avec cette œuvre c'est que le visiteur passe à travers la structure puis qu'il regarde les images de lui sur le grand écran. Pour moi, cette expérience était très amusante. Faire drôle de visage puis les voir apparaître sur le grand écran, ou laisser mon bras plus longtemps devant la caméra pour me donner de long bras. :laughing:
