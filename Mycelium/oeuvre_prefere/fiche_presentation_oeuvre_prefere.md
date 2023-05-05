@@ -27,6 +27,7 @@ Pour que l'exposition soit exposée, il faut avoir ces composants techniques.
 * Des projecteur.
 * Une tablette.
 * Des murs avec de l'espace pour les projections
+* Des haut-parleurs
 
 Photo d'un projecteur.
 ![Photo de la structure](medias/prjecteur.jpg)
@@ -39,12 +40,11 @@ Photo d'un mur
 
 
 ## Expérience vécue
-Ce qui est attendu d'un visiteur avec cette œuvre c'est que le visiteur passe à travers la structure puis qu'il regarde les images de lui sur le grand écran. Pour moi, cette expérience était très amusante. Faire drôle de visage puis les voir apparaître sur le grand écran, ou laisser mon bras plus longtemps devant la caméra pour me donner de long bras. :laughing:
+Ce qui est attendu d'un visiteur avec ce projets c'est de entrez dans le petit studio et explorer les différents défénition des animaux marin. Quand tu va cliquer sur les animaux, tu peux ensuite admirer les animaux se promener sur les mur du studio.
 
-Ce qui est attendu d'un visiteur c'est qu'il ce place sur la zone a terre puis qu'il essait d'arreter le but qui seront tiré dans le but virtuel sur l'écran. Pour moi, cette expérience étais très intéressante. Sa ma fais comprendre a quel point quand tu viellie, ton temps de réaction devient plus lent.
 
 ## Ce qui ma plus
-J'ai vraiment aimer comment le dispositf fait comprendre la viellesse et le temps de réaction. Donner le role de gardien de but au visiteur pis le faire essayer d'arrêter les buts ces très amusant.:heart:
+J'aime vraiment aimer comment la petite salle donne vraiment l'impression d'être dans le fond de l'ocean. La combinaision du visuel sur les murs et le son, ça donne une expèrience vraiment intéressante.
 
 ## Quelque chose que je ne changerais pas
-Je pense qu'une chose que je ne pourrait pas changer c'est le concepte. Cette idée est tellement créative. Il aurait pus juste pu crée quelque chose qui the dit de passer ta mais sur le rond rouge sur l'écran mais il on utilisé le sport du soccer. Le concepte du soccer est tout simplement trop bon pour être changé.
+Quelque chose que je ne changerais pas sa serait les effets sonore quand tu entend des animaux marin se promene sur les murs. Je trouve que c'est un de elements qui rend le projet le plus immersife.
