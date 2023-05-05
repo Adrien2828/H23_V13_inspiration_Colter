@@ -51,8 +51,6 @@ Photo de la zone sur le sol.
 ![Photo des lumières](medias/zone_sol.jpg)
 
 ## Expérience vécue
-Ce qui est attendu d'un visiteur avec cette œuvre c'est que le visiteur passe à travers la structure puis qu'il regarde les images de lui sur le grand écran. Pour moi, cette expérience était très amusante. Faire drôle de visage puis les voir apparaître sur le grand écran, ou laisser mon bras plus longtemps devant la caméra pour me donner de long bras. :laughing:
-
 Ce qui est attendu d'un visiteur c'est qu'il ce place sur la zone a terre puis qu'il essait d'arreter le but qui seront tiré dans le but virtuel sur l'écran. Pour moi, cette expérience étais très intéressante. Sa ma fais comprendre a quel point quand tu viellie, ton temps de réaction devient plus lent.
 
 ## Ce qui ma plus
