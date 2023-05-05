@@ -22,7 +22,7 @@ Voici une photo de la zone sur le sol.
 ![Photo de l'oeuvre](medias/ecran.jpg)
 Voici une photo de l'écran
 #
-Voici une petite vidéo pour vous démontrez comment l'oeuvre fonctionnent clquer la photo. [![IMAGE ALT TEXT HERE](medias/oeuvre_espace.jpg)](https://youtu.be/4xbXgVgLWYk)
+Voici une petite vidéo pour vous démontrez comment l'oeuvre fonctionnent. **cilquer la photo** [![IMAGE ALT TEXT HERE](medias/oeuvre_espace.jpg)](https://youtu.be/4xbXgVgLWYk)
 
 
 # Mise en espace
