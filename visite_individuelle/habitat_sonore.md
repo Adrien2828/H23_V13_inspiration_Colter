@@ -33,22 +33,21 @@ Le dispositif est placé au deuxième étage du centre des sciences. Il est plac
 
 ## Compsantes techniques
 Pour que l'exposition soit exposée, il faut avoir ces composants techniques.
-* Un capteur du genre Xbox Kinect pour capté le mouvement du joueur.
-* Un grand écran pour jouer le role du gardien.
-* Un file élécrique pour almimenté le dispositif.(Il utilise un file de la même couleur que le mur en arrière pour diminuer sa visibilité)
-* Une zone sur le sol pour que l'utilisateur puisse ce placer a bonne endroit.
+* Haut-parleurs
 
-Photo du capteur.
-![Photo de la structure](medias/camera_capteur.jpg)
+Haut-parleurs
+![Photo de la structure](medias/speaker.jpg)
 
-Photo de l'écran.
-![Photo de la cméra](medias/ecran.jpg)
+## Éléments recommandés
+Voici des éléments qui ne sont pas obligatoire mais bien a avoir pour améliorer l'expérience du visiteur.
+* Place confortable pour s'assoire.
+* Des lumière LED pour l'ambiance.
 
-Photo du file.
-![Photo des lumières](medias/file.jpg)
+Voici une photo des place pour s'assoire.
+![Photo de la cméra](medias/salle_interieur.jpg)
 
-Photo de la zone sur le sol.
-![Photo des lumières](medias/zone_sol.jpg)
+Photo des LED
+![Photo des lumières](medias/lumiere.jpg)
 
 ## Expérience vécue
 Ce qui est attendu d'un visiteur c'est qu'il ce place sur la zone a terre puis qu'il essait d'arreter le but qui seront tiré dans le but virtuel sur l'écran. Pour moi, cette expérience étais très intéressante. Sa ma fais comprendre a quel point quand tu viellie, ton temps de réaction devient plus lent.
