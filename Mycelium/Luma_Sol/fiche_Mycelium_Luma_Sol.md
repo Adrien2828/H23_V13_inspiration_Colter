@@ -20,4 +20,5 @@ Trois cours du programme qui sont nécéssaire à la création de ce projets.
 Pour ce projet, un capteur de.
 
 ## Mon ressenti 
+Je pense que quand je vais voir le projet en action, je vais être impressioner. Faire du vélo et voir les lumière s'allumer sa va être amusant. Après avoir parler au créateurs, ils mon donné confiance que leur projet serait intéressant.
 
