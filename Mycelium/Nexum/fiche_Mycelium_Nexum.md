@@ -19,7 +19,8 @@ Trois cours du programme qui sont nécéssaire à la création de ce projets.
 ## Composante technique
 
 
-Source pour cette information: [L'information]()
+Source pour cette information: [L'information](https://www.futura-sciences.com/tech/definitions/informatique-carte-son-18393/)
+Pour ce projet, une carte son sera néssésaire. Une carte son c'est un periferique qui peux généré du son sur un ordinateur. Pour pouvoir entendre la trame sonore du projet, la carte son sera une importante addition au projet.
 
 ## Mon ressenti 
 Oui leur projets dans le la salle avez l'aire un peu decevant, mais quand j'ai apris que les lumière vont s'allumer a ta position, j'ai été super intéresser. Marcher et avoir des lumière qui vont te suivre sa va être une experience que j'ai jamais vécu, sa va être choquants.
