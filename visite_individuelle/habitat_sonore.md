@@ -8,9 +8,7 @@ J'ai suis aller visité Habitat Sonore le 2 avril 2023.
 ## Type d'exposition
 Pas facile de saisir la balle au bond c’est une exposition qui se passe à l'intérieure et qui est permanente, elle va rester la longtemps. Je suis aller plusieur fois dans ma vie puis a chaque fois, ce dispositf était là. Le nom du créateur du dispositif n'a pas été donné.
 
-Habitat Sonore est une oeuvre 
-
-![Image cartel](medias/description.jpg)
+Habitat Sonore est une oeuvre qui est en exposition a l'intérieur. Cette oeuvre est temporaire. L'audio qui est jouer change de temps en temps, mais la salle reste là.
 
 ## Description du dispositif
 Pas facile de saisir la balle au bond est un dispositif multimédia qui démontre le temps de réaction d'une personne selon son âge. Pour utiliser le dispositif, tu dois te placer sur une zone sur le sol et regarder l'écran. Sur l'écran une silhouette de toi sera dans un but de soccer. C'est une sorte de simulation de gardien de but au soccer. Aussi sur l'écran, on peut voir des balles en direction du but. Ton but en tant que quelqu'un qui veut utiliser le dispositif, c'est d'essayer d'arrêter les buts. Tu vas pouvoir faire plusieurs arrêts, mais le plus longtemps que tu passes à arrêter les buts, le plus de temps que ton personnage sur l'écran prendra pour bouger. Ceci est fait pour te faire réaliser que les gens plus âgés ont un temps de réaction plus lent. Tu es censée pouvoir vivre l'expérience de quelqu'un de plus âgé.
