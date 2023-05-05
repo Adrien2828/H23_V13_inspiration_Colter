@@ -14,8 +14,9 @@ Trois cours du programme qui sont nécéssaire à la création de ce projets.
 * Intérgration web
 * Introduction a la programmation multimédia
 ## Composante technique
-Pour ce projet, une carte son sera néssésaire. Une carte son c'est un periferique qui peux généré du son sur un ordinateur. Pour pouvoir entendre la trame sonore du projet, la carte son sera une importante addition au projet.
-Source pour cette information: [L'information](https://www.futura-sciences.com/tech/definitions/informatique-carte-son-18393/)
+De ce que j'ai compris sur le projet. Le jeux vas être sur une page web, alors pour le projet, une serveur web sera néssaire. Un serveur web c'est « ...un serveur web est un ordinateur qui stocke les fichiers qui composent un site web (par exemple les documents HTML, les images, les feuilles de style CSS, les fichiers JavaScript) et qui les envoie à l'appareil de l'utilisateur qui visite le site.»
+
+Source pour cette information: [L'information](https://developer.mozilla.org/fr/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
 
 ## Mon ressenti 
 Je pense que quand je vais expérimenté l'oeuvre, je serais deçus. Quand le fille ma explique le projet, je n'est pas vraiment compris. Je pense que juste avec se quelle ma dit le projet va être très difficile a comprendre.
