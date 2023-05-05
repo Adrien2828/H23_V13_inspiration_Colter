@@ -30,7 +30,7 @@ Pour que l'exposition soit exposée, il faut avoir ces composants techniques.
 * Des haut-parleurs
 
 Photo d'un projecteur.
-![Photo de la structure](medias/prjecteur.jpg)
+![Photo de la structure](medias/projecteur.jpg)
 
 Photo de la tablette.
 ![Photo de la cméra](medias/tablette.jpg)
